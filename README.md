@@ -56,11 +56,29 @@ The following data cleaning process was carried out on Power BI;
 Question 1        
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.    
 
+![Screenshot 2023-05-27 205430](https://github.com/graceidiare/TaTa-Virtual-Experience-Programme-/assets/116168268/94929135-c51d-4083-b2e8-1d1f6e006ca6)    
+
 Question 2         
-The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.         
+The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.      
+
+![Screenshot 2023-05-27 205445](https://github.com/graceidiare/TaTa-Virtual-Experience-Programme-/assets/116168268/874575e2-aa3c-4172-a1ec-6098a83b6e97)     
+
 Question 3          
-The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.        
+The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.     
+
+![Screenshot 2023-05-27 205457](https://github.com/graceidiare/TaTa-Virtual-Experience-Programme-/assets/116168268/4ad9bcee-5361-411c-a75f-3fa29287b54b)      
+
 Question 4         
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.             
+
+![Screenshot 2023-05-27 205509](https://github.com/graceidiare/TaTa-Virtual-Experience-Programme-/assets/116168268/f124dd66-6ab1-4031-ad2b-c476dd018717)     
+
+**Task 4;**       
+Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.              
+
+Below is a snippet     
+
+https://github.com/graceidiare/TaTa-Virtual-Experience-Programme-/assets/116168268/326d7646-3ed8-4d8b-a9f8-531dc9636f4f
+
 
 
